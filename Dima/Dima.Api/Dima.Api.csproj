@@ -11,4 +11,7 @@
     <PackageReference Include="Swashbuckle.AspNetCore" Version="9.0.4" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\Dima.Core\Dima.Core.csproj" />
+  </ItemGroup>
 </Project>
